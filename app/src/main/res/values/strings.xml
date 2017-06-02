@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Discover</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Discover</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
